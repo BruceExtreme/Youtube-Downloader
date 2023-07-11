@@ -2,7 +2,7 @@
   <img src="Source Code/Logo.png?raw=true"  />
 </p>
 
-## Youtube Downloader
+## Youtube Downloader  
 It's a simple desktop application where you can download videos and music in high quality quickly and easily just by pasting the URL.
 
 
@@ -21,6 +21,6 @@ It's a simple desktop application where you can download videos and music in hig
   <img align="center" alt="Bruno-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 
 
-<br><br><br> Youtube Downloader Version 1.0 
+
   
   
