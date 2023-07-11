@@ -13,8 +13,10 @@ It's a simple desktop application where you can download videos and music in hig
 </p>
 
 
-## how to run
-Clone the repository and in the Youtube Downloader folder you will find the compiled file for exe Youtube Downloader.exe
+
+## Download
+- 🟢 **[Stable release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
+
 
 
 ## ✨ Tecnologias usadas
