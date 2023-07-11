@@ -3,8 +3,7 @@
 </p>
 
 ## Youtube Downloader  
-It's a simple desktop application where you can download videos and music in high quality quickly and easily just by pasting the URL.<br><br>
-
+It's a simple desktop application where you can download videos and music in high quality quickly and easily just by pasting the URL.<br>
 
 
 
