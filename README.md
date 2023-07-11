@@ -15,9 +15,12 @@ It's a simple desktop application where you can download videos and music in hig
 
 
 
-## ✨ Tecnologias Utilizadas
+## ✨ Tecnologias usadas
 <div style="display: inline_block">
   <img align="center" alt="Bruno-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Bruno-Js" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+
+
+<br><br><br> Youtube Downloader Version 1.0 
   
   
