@@ -7,7 +7,7 @@ It's a simple desktop application where you can download videos and music in hig
 
 
 
-## Demosnstração<br>
+## Demonstration<br>
 <p float="center">
   <img src="Source Code/Preview.png?raw=true" width="65.1%" />
 </p>
